@@ -9,8 +9,12 @@ Telecom / Solar / Technical Service Website Demo
 A responsive technical-service website designed to showcase
 solar, networking and technical support services.
 
-<img width="320" height="694" alt="Screenshot 2026-10-02 084123" src="https://github.com/user-attachments/assets/1ab77316-5cd9-4067-87ad-05c36a0e60a0" />
-<img width="1434" height="869" alt="Screenshot 2026-10-02 083923" src="https://github.com/user-attachments/assets/f1db257c-4e15-4089-a179-3a6ce56067d8" />
+## Screenshots
+
+<img width="324" height="704" alt="Screenshot 2026-10-02 091914" src="https://github.com/user-attachments/assets/23bceba4-e913-47a1-97c8-0435526722aa" />
+
+<img width="1429" height="839" alt="Screenshot 2026-10-02 091828" src="https://github.com/user-attachments/assets/6a5d4a70-e175-4e20-89df-3873923780bc" />
+
 
 ## Demo link
 
